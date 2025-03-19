@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Introduction to AI",
+      "description": "Learn the basics of artificial intelligence and its applications.",
+      "image": "https://cinema2y.com/wp-content/uploads/2021/01/%D8%A7%D9%81%D8%B6%D9%84-%D9%84%D8%A7%D8%A8%D8%AA%D9%88%D8%A8-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D8%B5%D9%88%D8%B1-7.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Web Development Tips",
+      "description": "Essential tips for becoming a proficient web developer.",
+      "image": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "3",
+      "title": "Healthy Eating Habits",
+      "description": "Discover the benefits of maintaining a balanced diet.",
+      "image": "https://images.pexels.com/photos/129208/pexels-photo-129208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "4",
+      "title": "Traveling on a Budget",
+      "description": "How to explore the world without breaking the bank.",
+      "image": "https://images.pexels.com/photos/842548/pexels-photo-842548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "5",
+      "title": "The Future of Renewable Energy",
+      "description": "Exploring the advancements in renewable energy technologies.",
+      "image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "6",
+      "title": "Mindfulness and Meditation",
+      "description": "Techniques to improve mental health through mindfulness.",
+      "image": "https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "7",
+      "title": "Cybersecurity Essentials",
+      "description": "Protect your digital life with these cybersecurity tips.",
+      "image": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "8",
+      "title": "The Art of Public Speaking",
+      "description": "Master the skills needed to captivate any audience.",
+      "image": "https://images.pexels.com/photos/1174746/pexels-photo-1174746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "9",
+      "title": "Sustainable Living",
+      "description": "How to live a more eco-friendly lifestyle.",
+      "image": "https://images.pexels.com/photos/16264583/pexels-photo-16264583/free-photo-of-funny-photo-of-the-akita-inu-dog-in-a-pilot-suit-at-the-airport.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "10",
+      "title": "The Rise of Remote Work",
+      "description": "Understanding the shift towards remote working environments.",
+      "image": "https://images.pexels.com/photos/31140740/pexels-photo-31140740/free-photo-of-stunning-interior-of-hagia-sophia-dome-in-istanbul.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}
